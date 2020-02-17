@@ -7,7 +7,8 @@
 // Dup2 prints the count and text of lines that appear more than once
 // in the input.  It reads from stdin or from a list of named files.
 
-// add comment
+// delete comment
+//add comment №2
 package main
 
 import (
