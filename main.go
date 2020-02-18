@@ -8,7 +8,8 @@
 // in the input.  It reads from stdin or from a list of named files.
 
 // delete comment
-//add comment №2
+//delete comment
+//add comment 3
 package main
 
 import (
